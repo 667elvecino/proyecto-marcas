@@ -1,0 +1,13 @@
+@import url(pp.css);
+article{
+	border-style: solid;
+	border-color: white;
+	border-width: 5px;
+	position: relative;
+	margin: 10% 20% 10% 20%;
+	padding-left: 20px;
+}
+h1 {
+	color: white;
+	margin-left: 20px;}
+table {margin-left: 70px}

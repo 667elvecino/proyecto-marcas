@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<?xml-stylesheet type="text/xsl" href="galeria1.xsl"?>
+<galeria>
+
+<imagen numero="i8 Roadster 2018 ">
+  <dibujo ruta="../fotos/deportivos/i8.jpg"/>
+</imagen>
+
+<imagen numero="i3s 2018 ">
+   <dibujo ruta="../fotos/deportivos/i3.jpg"/>
+</imagen>
+
+<imagen numero=" Z4 2017">
+  <dibujo ruta="../fotos/deportivos/z4.jpg"/>
+</imagen>
+
+<imagen numero="X7 2017">
+ <dibujo ruta="../fotos/deportivos/x7.jpg"/>
+</imagen>
+
+<imagen numero=" Serie 5 Touring 2017 ">
+ <dibujo ruta="../fotos/deportivos/5t.jpg"/> 
+</imagen>
+
+<imagen numero="Serie 2 Gran Tourer 2015">
+ <dibujo ruta="../fotos/deportivos/2g.jpg"/>
+</imagen>
+
+
+
+</galeria>

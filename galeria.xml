@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<?xml-stylesheet type="text/xsl" href="galeria.xsl"?>
+<galeria>
+
+<imagen numero="488 GTB Spider 2015 ">
+  <dibujo ruta="../fotos/deportivos/spider.jpg"/>
+</imagen>
+
+<imagen numero="Portofino 2017 ">
+   <dibujo ruta="../fotos/deportivos/portofino.jpg"/>
+</imagen>
+
+<imagen numero=" 812 Superfast 2017">
+  <dibujo ruta="../fotos/deportivos/superfast.jpg"/>
+</imagen>
+
+<imagen numero="California T 2008 ">
+ <dibujo ruta="../fotos/deportivos/california.jpg"/>
+</imagen>
+
+<imagen numero=" F12 Berlinetta 2012 ">
+ <dibujo ruta="../fotos/deportivos/berlineta.jpg"/> 
+</imagen>
+
+<imagen numero="LaFerrari 2013 ">
+ <dibujo ruta="../fotos/deportivos/laferrari.jpg"/>
+</imagen>
+
+
+
+</galeria>
