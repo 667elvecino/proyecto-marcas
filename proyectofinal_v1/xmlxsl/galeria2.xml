@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<?xml-stylesheet type="text/xsl" href="galeria2.xsl"?>
+<galeria>
+
+<imagen numero=" ATS Coupe 2014  ">
+  <dibujo ruta="../fotos/deportivos/coupe.jpg"/>
+</imagen>
+
+<imagen numero="CT6 2016 ">
+   <dibujo ruta="../fotos/deportivos/ct6.jpg"/>
+</imagen>
+
+<imagen numero=" CTS-V 2014 ">
+  <dibujo ruta="../fotos/deportivos/cts.jpg"/>
+</imagen>
+
+<imagen numero="Escalade 2014">
+ <dibujo ruta="../fotos/deportivos/esca.jpg"/>
+</imagen>
+
+<imagen numero=" SRX 2009 ">
+ <dibujo ruta="../fotos/deportivos/srx.jpg"/> 
+</imagen>
+
+<imagen numero="XT5 2016 ">
+ <dibujo ruta="../fotos/deportivos/xt5.jpg"/>
+</imagen>
+
+
+
+</galeria>

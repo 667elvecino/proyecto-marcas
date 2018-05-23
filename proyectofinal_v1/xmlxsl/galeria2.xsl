@@ -4,12 +4,12 @@
 
 <html>
 <head>
- <link rel="stylesheet" type="text/css" href="../css/deportivos.css"/>
+ <link rel="stylesheet" type="text/css" href="../css/cadilac.css"/>
 <title>Galeria</title>
 </head>
 <body>
 
-<h1>BMW</h1>
+<h1>CADILLAC</h1>
 <xsl:for-each select="imagen">  
 <div id="galeria">
 <div class="imagen" style="float: left; width: 300px;">
