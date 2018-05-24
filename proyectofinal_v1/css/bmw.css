@@ -1,8 +1,7 @@
 @import url(pp.css);
 iframe {
- 	background-color:blue;
-	position: relative;
-	margin-left: 140px;
+ 	position: relative;
+	margin-left: 169px;
 	margin-top: 10px;
 	width: 980px;
 	height: 700px;}

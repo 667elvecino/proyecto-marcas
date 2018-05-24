@@ -4,7 +4,7 @@
 
 <html>
 <head>
- <link rel="stylesheet" type="text/css" href="../css/deportivos.css"/>
+ <link rel="stylesheet" type="text/css" href="../css/deportivo.css"/>
 <title>Galeria</title>
 </head>
 <body>
